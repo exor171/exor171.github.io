@@ -1,0 +1,12 @@
+HeadingDecor{
+    color:aqua;
+    border-style: double;
+}
+.SmallerDecor{
+    color:red;
+    border-style:dotted;
+}
+.ParagraphDecor{
+    font-size:larger;
+    color:green;
+}
